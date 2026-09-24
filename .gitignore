@@ -1,0 +1,12 @@
+# Release assets belong in GitHub Releases, not Git history.
+*.zip
+*.7z
+*.exe
+*.dll
+*.pyd
+*.dalbit-license
+*.pem
+*.key
+*.p12
+*.pfx
+
