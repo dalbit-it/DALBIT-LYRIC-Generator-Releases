@@ -6,10 +6,10 @@
 
 ## 다운로드
 
-| 버전 | 용도 | 다운로드 |
-| --- | --- | --- |
-| FREE | 한 장의 이미지와 SRT 자막으로 1080p 리릭 비디오 제작 | [최신 FREE 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-FREE.zip) |
-| PRO | 여러 미디어, SRT·LRC, 커스텀 편집, 플레이리스트, 최대 4K 출력 | [최신 PRO 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-PRO.zip) |
+| 에디션 | 현재 버전 | 용도 | 다운로드 |
+| --- | --- | --- | --- |
+| FREE | v1.0.1 | 한 장의 이미지와 SRT 자막으로 1080p 리릭 비디오 제작 | [최신 FREE 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-FREE.zip) |
+| PRO | v1.0.1 | 여러 미디어, SRT·LRC, 커스텀 편집, 플레이리스트, 최대 4K 출력 | [최신 PRO 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-PRO.zip) |
 
 PRO는 별도로 발급받은 PC용 라이선스 파일이 있어야 실행할 수 있습니다.
 
