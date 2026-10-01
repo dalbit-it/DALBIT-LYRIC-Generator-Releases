@@ -8,10 +8,16 @@
 
 | 에디션 | 현재 버전 | 용도 | 다운로드 |
 | --- | --- | --- | --- |
-| FREE | v1.0.1 | 한 장의 이미지와 SRT 자막으로 1080p 리릭 비디오 제작 | [최신 FREE 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-FREE.zip) |
-| PRO | v1.0.1 | 여러 미디어, SRT·LRC, 커스텀 편집, 플레이리스트, 최대 4K 출력 | [최신 PRO 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-PRO.zip) |
+| FREE | v1.0.2 | 한 장의 이미지와 SRT 자막으로 1080p 리릭 비디오 제작 | [최신 FREE 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-FREE.zip) |
+| PRO | v1.0.2 | 여러 미디어, SRT·LRC, 커스텀 편집, 플레이리스트, 최대 4K 출력 | [최신 PRO 다운로드](https://github.com/dalbit-it/DALBIT-LYRIC-Generator-Releases/releases/latest/download/DALBIT-LYRIC-Generator-PRO.zip) |
 
 PRO는 별도로 발급받은 PC용 라이선스 파일이 있어야 실행할 수 있습니다.
+
+## v1.0.2 수정 내역
+
+곡 정보 3단계 노출(FREE·PRO), 키네틱 가사 안전영역과 화면 밖 이탈 보정, 가사별 편집·드래그·크기 조절 개선, 스펙트럼 표시·미리보기 일치, 3줄 가사 공백·선택 동기화, 라이선스·플레이리스트 UI를 개선했습니다.
+
+자세한 항목별 변경 사항과 업데이트 안내는 [v1.0.2 수정 내역](RELEASE_NOTES_1.0.2.md)을 확인하세요.
 
 ## 설치 및 실행
 
